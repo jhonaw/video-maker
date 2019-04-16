@@ -18,7 +18,10 @@
   "homepage": "https://github.com/jhonaw/video-maker#readme",
   "dependencies": {
     "algorithmia": "^0.3.10",
+    "googleapis": "^39.2.0",
     "readline-sync": "^1.4.9",
+    "request": "^2.88.0",
+    "requests": "^0.2.2",
     "sbd": "^1.0.15",
     "watson-developer-cloud": "^4.0.1"
   }
