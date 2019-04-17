@@ -60,5 +60,10 @@ typings/
 # next.js build output
 .next
 
-# credentials/*.json
+# credentials
+credentials/*.json
+
 content.json
+
+content/*.png
+
